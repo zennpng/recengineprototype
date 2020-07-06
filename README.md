@@ -9,9 +9,9 @@ run: Windows Task Scheduler (periodic compute)
 - Configure server string in python files with valid credentials 
 - Configure neural network's hyperparameters in deep_content_filtering_batch.py
 
-Logics: 
-    - content filtering (item-item)
-    - content filtering (learning)
-    - collaborative filtering (user-item)
-    - collaborative filtering (user-user)
+Filtering Logics: 
+- content filtering (item-item)
+- content filtering (learning)
+- collaborative filtering (user-item)
+- collaborative filtering (user-user)
     
