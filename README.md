@@ -1,4 +1,4 @@
-# Recommendation Engine Service Prototype (Compute Side)
+## Recommendation Engine Service Prototype (Compute Side)
 
 language: Python 3.7,
 requirements: pip install -r requirements.txt,
