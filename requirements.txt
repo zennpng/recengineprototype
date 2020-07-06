@@ -1,0 +1,16 @@
+bson
+python-dateutil
+dnspython
+joblib
+matplotlib
+mkl
+nose
+numpy
+pandas
+pymongo
+pytz
+scipy
+sklearn 
+sparse
+sympy
+six
